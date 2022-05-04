@@ -15,4 +15,3 @@ for phone_no in f:
       pg.hotkey('ctrl', 'w')
       time.sleep(3)
 
-
